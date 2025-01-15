@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: No, not funny at all.
 
-Welcome to visit [xian bus database](test.xbus.ddns-ip.net), a new established database for public transportation data archive in xian.
+Welcome to visit [xian bus database](https://test.xbus.ddns-ip.net), a new established database for public transportation data archive in xian.
